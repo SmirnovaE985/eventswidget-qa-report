@@ -1,6 +1,4 @@
 # QA Report — Events Widget
-QA report for https://dev.3s.info/eventswidget/
-
 Исследовательское тестирование страницы:
 https://dev.3s.info/eventswidget/
 
