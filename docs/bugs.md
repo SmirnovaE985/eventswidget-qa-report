@@ -8,7 +8,7 @@
 
 **Окружение:**  
 - URL: `https://dev.3s.info/eventswidget/`  
-- Browser: Chrome / Edge for Windows  
+- Browser: Chrome / Edge 
 - Desktop viewport  
 
 **Предусловия:**  
