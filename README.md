@@ -12,6 +12,24 @@ https://dev.3s.info/eventswidget/
 - [Observations](docs/observations.md)
 - [Improvements](docs/improvements.md)
 
+
+```md
+## Структура репозитория
+
+```text
+eventswidget-qa-report/
+├─ README.md
+├─ docs/
+│  ├─ qa-report.md        # основной QA-отчёт
+│  ├─ bugs.md             # найденные дефекты
+│  ├─ checklist.md        # чек-лист проверок
+│  ├─ test-cases.md       # критичные тест-кейсы
+│  ├─ observations.md     # наблюдения и особенности
+│  └─ improvements.md     # предложения по улучшению
+└─ artifacts/
+   └─ screenshots/        # скриншоты, используемые в отчёте
+
+
 ## Scope
 Проверялись:
 - базовая работоспособность страницы
