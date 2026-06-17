@@ -22,7 +22,6 @@ eventswidget-qa-report/
 │  ├─ bugs.md             # найденные дефекты
 │  ├─ checklist.md        # чек-лист проверок
 │  ├─ test-cases.md       # критичные тест-кейсы
-│  ├─ observations.md     # наблюдения и особенности
 │  └─ improvements.md     # предложения по улучшению
 └─ artifacts/
    └─ screenshots/        # скриншоты, используемые в отчёте
@@ -41,9 +40,6 @@ eventswidget-qa-report/
 
 ## Artifacts
 - Screenshots: `artifacts/screenshots/`
-- Network: `artifacts/network/`
-- Console: `artifacts/console/`
-- Responsive: `artifacts/responsive/`
 
 ## Summary
 В рамках тестирования были проверены основные пользовательские сценарии конструктора календаря мероприятий, включая обязательную проверку цветовой темы «Красная» и корректность параметра `theme` в generated code.
