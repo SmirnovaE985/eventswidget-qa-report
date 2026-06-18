@@ -52,7 +52,8 @@ Priority: Medium
 URL: https://dev.3s.info/eventswidget/
 Browser: Chrome/Edge
 Desktop viewport
-Предусловия:
+
+**Предусловия:**
 Страница конструктора календаря мероприятий открыта.
 
 **Шаги для воспроизведения:**
