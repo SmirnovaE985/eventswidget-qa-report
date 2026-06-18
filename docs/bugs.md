@@ -86,7 +86,8 @@ Priority: High
 URL: https://dev.3s.info/eventswidget/
 Browser: Chrome/Edge for Windows
 Desktop viewport
-Предусловия:
+
+**Предусловия:**
 Страница конструктора календаря мероприятий открыта.
 
 **Шаги для воспроизведения:**
@@ -121,7 +122,8 @@ Priority: Medium
 URL: https://dev.3s.info/eventswidget/
 Browser: Chrome/Edge
 Desktop viewport
-Предусловия:
+
+**Предусловия:**
 Страница конструктора календаря мероприятий открыта.
 
 **Шаги для воспроизведения:**
@@ -155,7 +157,8 @@ Priority: Medium
 URL: https://dev.3s.info/eventswidget/
 Browser: Chrome/Edge
 Desktop viewport
-Предусловия:
+
+**Предусловия:**
 Открыта страница конструктора календаря мероприятий.
 
 **Шаги для воспроизведения:**
