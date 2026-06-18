@@ -7,7 +7,6 @@ https://dev.3s.info/eventswidget/
 - [Bugs](docs/bugs.md)
 - [Checklist](docs/checklist.md)
 - [Test Cases](docs/test-cases.md)
-- [Observations](docs/observations.md)
 - [Improvements](docs/improvements.md)
 
 
